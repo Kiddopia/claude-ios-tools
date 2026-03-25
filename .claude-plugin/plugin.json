@@ -6,8 +6,5 @@
     "name": "ashishswain-20",
     "organization": "Kiddopia"
   },
-  "repository": "Kiddopia/claude-ios-tools",
-  "skills": [
-    "ipa-size-report"
-  ]
+  "repository": "Kiddopia/claude-ios-tools"
 }
