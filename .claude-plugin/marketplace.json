@@ -8,7 +8,7 @@
     {
       "name": "claude-ios-tools",
       "description": "iOS IPA size analysis with categorized breakdown, build comparison, and HTML reports",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "source": "./",
       "category": "development",
       "author": {

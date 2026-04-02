@@ -1,7 +1,7 @@
 {
   "name": "claude-ios-tools",
   "description": "iOS development utilities for Claude Code - IPA size analysis, build comparison, and optimization insights",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": {
     "name": "ashishswain-20",
     "organization": "Kiddopia"
